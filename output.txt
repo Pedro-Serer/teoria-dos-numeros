@@ -1,0 +1,4 @@
+Quantidade de valores gerados: 800000000
+Quantidade total de primos gerados: 41146179
+Novos gaps verificados: 127
+Inconsistências encontradas: 0
